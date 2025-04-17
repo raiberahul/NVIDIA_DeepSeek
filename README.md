@@ -4,7 +4,7 @@
 Python 3.8+ with these packages: `pandas yfinance requests textblob python-pptx matplotlib`. Install with: `pip install pandas yfinance requests textblob python-pptx matplotlib`
 
 ## QUICK START
-1. Download the script: `curl -o nvidia_analysis.py https://raw.githubusercontent.com/yourusername/repo/main/nvidia_analysis_pipeline.py`  
+1. Download the script: `curl -o nvidia_analysis.py https://raw.githubusercontent.com/raiberahul/NVIDIA_DeepSeek_Analysis/blob/main/nvidia_analysis_pipeline.py`  
 2. Configure API keys in the script by editing these values:  
    `"gnews_api_key": "your_gnews_key"` (get from gnews.io)  
    `"reddit_client_id": "your_reddit_id"` (from Reddit Developer Portal)  
