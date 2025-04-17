@@ -26,5 +26,5 @@ MIT License - Free for academic and commercial use
 
 ---
 
-To update: `curl -o nvidia_analysis.py https://raw.githubusercontent.com/yourusername/repo/main/nvidia_analysis_pipeline.py`  
+To update: `curl -o nvidia_analysis.py https://raw.githubusercontent.com/raiberahul/NVIDIA_DeepSeek_Analysis/blob/main/nvidia_analysis_pipeline.py`  
 Replace "yourusername/repo" with your actual GitHub path. For support contact: your@email.com
